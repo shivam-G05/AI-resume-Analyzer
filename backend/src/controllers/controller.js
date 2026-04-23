@@ -12,7 +12,7 @@ function runPythonParser(buffer, filename) {
         fs.writeFileSync(tmpPath, buffer);
 
         const pythonBin = process.env.PYTHON_BIN || 'python';
-        const scriptPath = path.resolve(__dirname, '../../../process_url_with_python.py');
+        const scriptPath = path.resolve(__dirname, '../../process_url_with_python.py');
 
         const proc = spawn(
             pythonBin,
