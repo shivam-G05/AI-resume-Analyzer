@@ -3,7 +3,7 @@ import axios from 'axios'
 import './styles.css'
 
 const API_BASE = import.meta.env.VITE_API_BASE
-const RAPIDAPI_KEY = import.meta.env.VITE_RAPIDAPI_KEY || 'd92130554fmshc10e4e44a85631ep1cb225jsn987b3dc7e765'
+const RAPIDAPI_KEY = import.meta.env.VITE_RAPIDAPI_KEY
 
 function ScoreRing({ score, label, color }) {
   const r = 36
