@@ -2,7 +2,7 @@ import React, { useState, useRef, useEffect } from 'react'
 import axios from 'axios'
 import './styles.css'
 
-const API_BASE = import.meta.env.VITE_API_BASE
+const API_BASE = 'https://ai-resume-analyzer-vpqu.onrender.com/api'
 const RAPIDAPI_KEY = import.meta.env.VITE_RAPIDAPI_KEY
 
 function ScoreRing({ score, label, color }) {
