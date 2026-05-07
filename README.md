@@ -2,6 +2,11 @@
 
 An AI-powered full-stack web application that parses resumes and delivers deep analysis across ATS compatibility, content quality, format structure, and skill gaps — with live job recommendations matched to the candidate's profile.
 
+<img width="1865" height="826" alt="Screenshot 2026-05-07 092753" src="https://github.com/user-attachments/assets/94c65489-3855-4d5e-bb6a-b26bcac352c9" />
+<img width="1116" height="600" alt="Screenshot 2026-05-07 092932" src="https://github.com/user-attachments/assets/fb443547-711e-4917-8721-820466f1d700" />
+<img width="1242" height="818" alt="Screenshot 2026-05-07 092912" src="https://github.com/user-attachments/assets/c85b16a8-f037-4dae-9a40-39a81f81ed01" />
+
+
 ---
 
 ## Features
